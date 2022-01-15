@@ -14,7 +14,36 @@ I am:
    - Learning
    - Having fun with technology
 
-## Tools I use:
+
+## Some more info about me
+### 👩‍💻 I'm currently working on...
+
+- A companion app for the board game [Lord of the Rings: Journeys in Middle Earth](https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-journeys-in-middle-earth/), written in PowerShell (repo will be open-sourced once some initial code and logic is put together and organized)
+    - Once the initial app is created, I would like to create a web-based version that folks can self-host and use to play the game remotely with friends and/or family
+- A series of PowerShell scripts to help with Microsoft 365 and Azure management for other systems administrators that will benefit from my experiences with managing Microsoft's platform(s)
+---
+
+### 🧠 I'm currently learning...
+
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
+
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+---
+
+## 🔗 Quick Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://martinhiriart.com/) (coming soon!)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-hiriart-4aa02918b)
+
+[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/BL4ZEDB4C0N5)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BL4ZEDB4C0N5)
+
+
+
+## 🛠 Tools I rely on
 
 ### Operating Systems
 [![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/)
@@ -63,28 +92,3 @@ I am:
 ### Collaboration
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365)
 ---
-## 🔗 Quick Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://martinhiriart.com/) (coming soon!)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-hiriart-4aa02918b)
-
-[![reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/BL4ZEDB4C0N5)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BL4ZEDB4C0N5)
-
-
-
-## Other Common Github Profile Sections
-### 👩‍💻 I'm currently working on...
-
-- A companion app for the board game [Lord of the Rings: Journeys in Middle Earth](https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-journeys-in-middle-earth/), written in PowerShell
-    - Once the initial app is created, I would like to create a web-based version that folks can self-host and use to play the game remotely with friends and/or family
-- A series of PowerShell scripts to help with Microsoft 365 and Azure management for other systems administrators that will benefit from my experiences with managing Microsoft's platform(s)
-
-### 🧠 I'm currently learning...
-
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-
-[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
-
-[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
