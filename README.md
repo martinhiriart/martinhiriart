@@ -18,8 +18,6 @@ I am:
 ## Some more info about me
 ### 👩‍💻 I'm currently working on...
 
-- A companion app for the board game [Lord of the Rings: Journeys in Middle Earth](https://www.fantasyflightgames.com/en/products/the-lord-of-the-rings-journeys-in-middle-earth/), written in PowerShell (repo will be open-sourced once some initial code and logic is put together and organized)
-    - Once the initial app is created, I would like to create a web-based version that folks can self-host and use to play the game remotely with friends and/or family
 - A series of PowerShell scripts to help with Microsoft 365 and Azure management for other systems administrators that will benefit from my experiences with managing Microsoft's platform(s)
 ---
 
