@@ -4,10 +4,11 @@
 
 ## 🚀 About Me
 I am:
-- A geek who loves Star Wars, Lord of the Rings, and is getting into D&D
+- A geek who loves Star Wars, Lord of the Rings, and D&D
 - Passionate about:
    - Automation
    - Cloud
+   - Security
    - Open source
    - Gaming
    - Tinkering 
