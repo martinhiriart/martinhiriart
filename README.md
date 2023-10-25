@@ -18,4 +18,6 @@
 </p>
 
 ## My projects
-[Sysinfo](https://github.com/martinhiriart/sysinfo) - Displays system info cross-platform (MacOS, Windows) using [osquery](https://osquery.io)
+[sysinfo](https://github.com/martinhiriart/sysinfo) - Displays system info cross-platform (MacOS, Windows) using [osquery](https://osquery.io)
+
+[pokedex-go](https://github.com/martinhiriart/pokedex-go) - A CLI pokedex using [PokéAPI](https://pokeapi.co). Built as part of my learning via [Boot.dev](https://boot.dev)
