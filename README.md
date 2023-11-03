@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Martin! 👋</h1>
+<h1 align="center">Hey there, I'm Martin! 👋🏼</h1>
 <!-- <p align="center">I'm a sysadmin, security professional, and aspiring Go developer looking to build tools to help make life easier for other sysadmins and security folks to manage their systems and do their jobs.</p> -->
 <p align="center">I make tools to help admins work efficiently and securely.</p>
 
