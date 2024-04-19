@@ -5,7 +5,7 @@
 ## My stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=go,powershell,md,linux,azure,cloudflare,git,postman" alt="Go, PowerShell, Markdown, Linux, Azure, Cloudflare, Git, Postman">
+    <img src="https://skillicons.dev/icons?i=go,powershell,apple,cloudflare,git,md" alt="Go, PowerShell, Apple, Cloudflare, Git, Markdown">
   </a>
 </p>
 
