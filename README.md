@@ -18,7 +18,7 @@
 </p>
 
 ## My projects
-[poshman](https://github.com/martinhiriart/poshman) - A package manager for PowerShell modules written in Go.
+[poshman](https://github.com/martinhiriart/poshman) - A package manager for PowerShell modules, written in Go.
 
 [sysinfo](https://github.com/martinhiriart/sysinfo) - Displays system info cross-platform (MacOS, Windows) using [osquery](https://osquery.io)
 
